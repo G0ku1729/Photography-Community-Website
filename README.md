@@ -10,13 +10,14 @@ The project focuses on developing a serverless web application for a photography
 • The application provides a valuable platform for photographers to share, discover, connect, and showcase their work.<br>
 
 # Screenshots
-![image](https://github.com/G0ku1729/Photography-Website/assets/145249135/8b467032-5a9c-49df-8626-25bf08267da6)
+![image](https://github.com/G0ku1729/Photography-Website/assets/145249135/5c86886f-b7b0-4c4f-b0d3-cacdbcbded88)
 #
-![image](https://github.com/G0ku1729/Photography-Website/assets/145249135/25bfb941-85e7-48a8-a69b-c45f7053ee14)
+![image](https://github.com/G0ku1729/Photography-Website/assets/145249135/ebbc8297-b1c5-4735-a705-1ef795f745cf)
 #
-![image](https://github.com/G0ku1729/Photography-Website/assets/145249135/d94a03ae-27ee-4f8f-9cf0-eb0d0b0f08ae)
+![image](https://github.com/G0ku1729/Photography-Website/assets/145249135/5d914fc8-a214-46ef-817f-2a892df4ae7b)
 #
-![image](https://github.com/G0ku1729/Photography-Website/assets/145249135/fc01dad2-e694-4c47-8478-fe67fff9286b)
+![image](https://github.com/G0ku1729/Photography-Website/assets/145249135/bb4cb090-b9a0-41bd-a35c-a7e4812320e9)
+
 
 
 
