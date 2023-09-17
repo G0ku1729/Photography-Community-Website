@@ -9,6 +9,12 @@ The project focuses on developing a serverless web application for a photography
 • In this project, PHP (Hypertext Preprocessor) handles server-side scripting while MySQL offers reliable data management and scalability.<br>
 • The application provides a valuable platform for photographers to share, discover, connect, and showcase their work.<br>
 
+# Architecture
+![image](https://github.com/G0ku1729/Photography-Website/assets/145249135/1423c364-1054-481f-bf7c-60ca9150f37e)
+
+# Amazon EC2 Instance
+![image](https://github.com/G0ku1729/Photography-Website/assets/145249135/0c071fe9-10f1-4223-8dad-c0e59c0195b9)
+
 # Screenshots
 ![image](https://github.com/G0ku1729/Photography-Website/assets/145249135/5c86886f-b7b0-4c4f-b0d3-cacdbcbded88)
 #
